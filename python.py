@@ -1,2 +1,4 @@
 print("hiii   is")
-input("enter pyur name")
+x=input("enter pyur name")
+print(x)
+
